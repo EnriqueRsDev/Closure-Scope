@@ -1,0 +1,11 @@
+{
+  "name": "closures-scope-v2",
+  "version": "1.0.0",
+  "description": "Practice of closures and scope.",
+  "main": "scope.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EnriqueRs.Dev",
+  "license": "MIT"
+}
